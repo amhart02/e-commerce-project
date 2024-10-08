@@ -1,0 +1,10 @@
+Bananas#0.59#Fresh and ripe bananas, perfect for snacking, baking, or adding to smoothies.#Produce
+Apple AirPods Pro#199.99#Apple AirPods Pro feature Active Noise Cancellation, Transparency mode, and a customizable fit for all-day comfort.#Electronics#50#July 31, 2024#150
+T-shirts (Pack of 5)#19.99#Comfortable and durable, crewneck t-shirts are made from 100% cotton.#Clothing
+Spotify Premium#9.99#Spotify Premium offers ad-free music streaming, offline listening, and high-quality audio, music streaming.#Monthly#5
+Cereal#3.99#Cereal made with crispy corn flakes and a sweet frosted coating.#Grocery
+Netflix Standard Plan#15.49#The Netflix Standard Plan provides access to a wide range of movies, TV shows, and original content in HD quality.#Video Streaming#Monthly#2
+Pineapple Chunks#2.49#Pineapple chunks in 100% pineapple juice are perfect for adding to fruit salads, desserts, or enjoying straight from the can.#Canned goods
+Jeans#69.50#Made with stretch denim for comfort and style, they are perfect for everyday wear.#Clothing
+Blue Apron#59.94#Blue Apron delivers fresh ingredients and easy-to-follow recipes to your door, allowing you to cook delicious meals at home without the hassle of meal planning.#Meal Kit Delivery#Weekly#10
+Running Shoes#89.99#These running shoes provide a comfortable, responsive ride with breathable mesh upper and Zoom Air cushioning.#footwear#30#August 15th, 2024#200
